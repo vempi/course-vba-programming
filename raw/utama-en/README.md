@@ -1,8 +1,22 @@
 # Introduction to Computers, Excel, and VBA for Civil Engineering
 
-**Language:** English · [Versi Bahasa Indonesia](../README.md)
+**Language:** English · [Versi Bahasa Indonesia](../utama-id/README.md)
 
 A Markdown-based learning package for undergraduate Civil Engineering students, Department of Civil and Environmental Engineering, Universitas Gadjah Mada. Excel and VBA are the primary learning environment, with an optional AutoCAD VBA demonstration.
+
+## Slides and PDF
+
+| Meeting | PowerPoint |
+|---:|---|
+| 1 | [Computers and Operating Systems](00-Slide-Kuliah/01-computers-and-operating-systems.pptx) |
+| 2 | [Excel Fundamentals](00-Slide-Kuliah/02-excel-fundamentals.pptx) |
+| 3 | [Excel Functions and IF](00-Slide-Kuliah/03-excel-if.pptx) |
+| 4 | [Algorithms](00-Slide-Kuliah/04-algorithms.pptx) |
+| 5 | [VBA and Linear Macros](00-Slide-Kuliah/05-vba-and-linear-macros.pptx) |
+| 6 | [Input-Output and Modularity](00-Slide-Kuliah/06-input-output-and-modularity.pptx) |
+| 7 | [UserForms and Controls](00-Slide-Kuliah/07-userforms-and-controls.pptx) |
+
+First meeting PDF: [01-computers-and-operating-systems.pdf](01-computers-and-operating-systems.pdf).
 
 ## Learning design
 
