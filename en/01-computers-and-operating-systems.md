@@ -38,6 +38,9 @@ This course develops computational thinking: breaking down a problem, expressing
 
 The class uses *predict–run–explain*: predict the output, run the example, and explain any difference between the prediction and actual result.
 
+<img width="2137" height="1288" alt="image" src="https://github.com/user-attachments/assets/5b76190c-763f-4d69-bfa5-00b6098b833c" />
+
+
 ## 2. Four broad stages in computer history
 
 | Stage | Key development | Consequence |
@@ -48,6 +51,9 @@ The class uses *predict–run–explain*: predict the output, run the example, a
 | Microprocessors and networks | PCs, internet, cloud, and mobile devices | computing became part of everyday engineering work |
 
 Across every stage, a computer accepts data, executes instructions, stores state, and produces output.
+
+<img width="2450" height="712" alt="image" src="https://github.com/user-attachments/assets/24d27775-7000-44e0-b713-7dce2e00fb00" />
+
 
 ## 3. How a computer and its OS work
 
@@ -60,10 +66,12 @@ input devices → memory ↔ CPU → output devices
                   ↕
           Operating System (OS)
 ```
-
 The CPU executes elementary instructions. Memory holds data currently being used. Storage retains data after the power is turned off. The operating system manages hardware, files, memory, processes, users, and the interface so every application does not need to control hardware directly.
 
 Windows, Linux, macOS, Android, and iOS are operating systems. Excel and AutoCAD are applications that run on an OS. VBA is an automation language and environment hosted inside a particular application.
+
+<img width="2363" height="1113" alt="image" src="https://github.com/user-attachments/assets/3fb06c3e-d6a7-4df5-966f-95d9dddc9f5a" />
+
 
 ## 4. Numbers inside a computer
 
@@ -78,6 +86,9 @@ Therefore, `1101₂ = 8 + 4 + 0 + 1 = 13₁₀`.
 
 Text, images, and fractional numbers are also represented as bit patterns. Some decimal fractions cannot be represented exactly, so computer calculations may contain tiny rounding differences. Engineering programs should compare fractional results using an appropriate tolerance.
 
+<img width="2437" height="1100" alt="image" src="https://github.com/user-attachments/assets/6ee71588-84f6-406a-893f-92d8d42783ab" />
+
+
 ## 5. Programs in civil engineering
 
 Common uses include:
@@ -87,6 +98,9 @@ Common uses include:
 - GIS for spatial data;
 - structural, geotechnical, transport, and hydraulic analysis packages; and
 - scripts for cleaning data, repeated calculations, reporting, and quality checks.
+
+<img width="2550" height="1388" alt="image" src="https://github.com/user-attachments/assets/7f572276-9123-4474-916c-e7cba296d48e" />
+
 
 ### Use, adapt, or build?
 
@@ -98,6 +112,8 @@ Common uses include:
 | Is development cost greater than the benefit? | yes | no |
 
 A practical option is often to use established software and automate only its repetitive parts.
+<img width="2487" height="1150" alt="image" src="https://github.com/user-attachments/assets/7c0a56c5-9013-40ae-9c34-5ad0be136b5a" />
+
 
 ## 6. Program and script demonstrations
 
@@ -120,6 +136,8 @@ End Sub
 
 Observe the sequence: write labels, write inputs, read inputs, calculate, and write the output.
 
+<img width="2450" height="1025" alt="image" src="https://github.com/user-attachments/assets/aa8a8048-dbce-4ec5-b106-c2f45a5f29b6" />
+
 ### Demo B — AutoCAD VBA (optional)
 
 Run this demonstration only where the AutoCAD VBA environment is available. Coordinates follow the active drawing units.
@@ -137,6 +155,8 @@ Sub CreateSimpleLine()
     ZoomAll
 End Sub
 ```
+<img width="2600" height="1175" alt="image" src="https://github.com/user-attachments/assets/cf636785-ec1c-4ea0-86ce-6ca9472d45c8" />
+
 
 The `ThisDrawing.ModelSpace.AddLine` hierarchy follows the [official Autodesk ActiveX object hierarchy](https://help.autodesk.com/cloudhelp/2024/CHS/AutoCAD-ActiveX/files/GUID-D4FF317D-16DA-42D8-8309-8260B7427E55.htm).
 
@@ -156,6 +176,9 @@ In the Excel demo, identify the input, process, output, application, scripting l
 
 <details>
 <summary>Answer key and evidence of understanding</summary>
+
+<img width="2350" height="1075" alt="image" src="https://github.com/user-attachments/assets/13ba07bb-7af6-4e7d-89c7-acfbe0f8381b" />
+
 
 **Answer key and evidence of understanding**
 
