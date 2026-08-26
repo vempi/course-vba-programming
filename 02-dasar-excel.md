@@ -162,4 +162,11 @@ Dari `x₀=1`, hitung dua langkah pertama iterasi akar dua. Jelaskan mengapa pro
 - [ ] Saya membedakan nol, kosong, teks, dan galat.
 - [ ] Saya dapat menjelaskan aturan serta kondisi berhenti iterasi.
 
+## Bacaan lanjut
+
+1. Michael Alexander & Dick Kusleika, *Microsoft Excel 365 Bible*, 2nd ed., Wiley, 2025.
+2. Bernard Liengme & Keith Hekman, *Liengme’s Guide to Excel 2016 for Scientists and Engineers*, Academic Press, 2019.
+3. Ronald W. Larsen, *Engineering with Excel*, 5th ed., Pearson, 2017.
+4. Wayne L. Winston, *Microsoft Excel Data Analysis and Business Modeling*, 6th ed., Microsoft Press, 2019.
+
 [← Modul 1](01-pengantar-komputer-os.md) · [Daftar modul](README.md) · [Modul 3 →](03-fungsi-excel-dan-if.md)

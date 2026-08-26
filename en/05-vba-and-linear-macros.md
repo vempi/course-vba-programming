@@ -185,4 +185,11 @@ Classify these events: `End Sub` is missing; worksheet `Volume` does not exist; 
 - [ ] I understand every important line retained from the recorder.
 - [ ] The linear macro agrees with a manual calculation.
 
+## Further reading
+
+1. Michael Alexander & Dick Kusleika, *Excel 2019 Power Programming with VBA*, Wiley, 2019.
+2. Bill Jelen & Tracy Syrstad, *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)*, Microsoft Press, 2022.
+3. Steven Roman, *Writing Excel Macros with VBA*, 2nd ed., O’Reilly Media, 2002.
+4. Bernard Liengme & Keith Hekman, *Liengme’s Guide to Excel 2016 for Scientists and Engineers*, Academic Press, 2019.
+
 [← Module 4](04-algorithms.md) · [Module list](README.md) · [Module 6 →](06-input-output-and-modularity.md)

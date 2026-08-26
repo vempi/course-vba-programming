@@ -165,4 +165,11 @@ Seorang mahasiswa mendapat tugas 100, UTS 50, dan UAS 50. Prediksi nilai akhir d
 - [ ] Saya sengaja memilih `>` atau `>=`.
 - [ ] Saya menguji tepat pada setiap nilai batas.
 
+## Bacaan lanjut
+
+1. Michael Alexander & Dick Kusleika, *Microsoft Excel 365 Bible*, 2nd ed., Wiley, 2025.
+2. Wayne L. Winston, *Microsoft Excel Data Analysis and Business Modeling*, 6th ed., Microsoft Press, 2019.
+3. Bernard Liengme & Keith Hekman, *Liengme’s Guide to Excel 2016 for Scientists and Engineers*, Academic Press, 2019.
+4. E. Joseph Billo, *Excel for Scientists and Engineers: Numerical Methods*, Wiley, 2007.
+
 [← Modul 2](02-dasar-excel.md) · [Daftar modul](README.md) · [Modul 4 →](04-algoritma.md)

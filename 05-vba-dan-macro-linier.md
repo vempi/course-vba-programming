@@ -186,4 +186,11 @@ Kelompokkan tiga kejadian: `End Sub` hilang; worksheet `Volume` tidak ada; rumus
 - [ ] Saya memahami setiap baris penting hasil recorder.
 - [ ] Macro linier cocok dengan hitungan manual.
 
+## Bacaan lanjut
+
+1. Michael Alexander & Dick Kusleika, *Excel 2019 Power Programming with VBA*, Wiley, 2019.
+2. Bill Jelen & Tracy Syrstad, *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)*, Microsoft Press, 2022.
+3. Steven Roman, *Writing Excel Macros with VBA*, 2nd ed., O’Reilly Media, 2002.
+4. Bernard Liengme & Keith Hekman, *Liengme’s Guide to Excel 2016 for Scientists and Engineers*, Academic Press, 2019.
+
 [← Modul 4](04-algoritma.md) · [Daftar modul](README.md) · [Modul 6 →](06-input-output-dan-modularitas.md)

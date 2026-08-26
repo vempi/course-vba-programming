@@ -252,4 +252,12 @@ Mengapa rumus volume sebaiknya berada di `Function VolumeBalok`, sedangkan pemba
 - [ ] Saya membedakan tugas Function dan Sub.
 - [ ] Lima baris tetap diproses meskipun satu baris salah.
 
+## Bacaan lanjut
+
+1. Michael Alexander & Dick Kusleika, *Excel 2019 Power Programming with VBA*, Wiley, 2019.
+2. Bill Jelen & Tracy Syrstad, *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)*, Microsoft Press, 2022.
+3. Steve McConnell, *Code Complete*, 2nd ed., Microsoft Press, 2004.
+4. Brian W. Kernighan & Rob Pike, *The Practice of Programming*, Addison-Wesley, 1999.
+5. E. Joseph Billo, *Excel for Scientists and Engineers: Numerical Methods*, Wiley, 2007.
+
 [← Modul 5](05-vba-dan-macro-linier.md) · [Daftar modul](README.md) · [Modul 7 →](07-userform-dan-control.md)

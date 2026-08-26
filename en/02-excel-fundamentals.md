@@ -162,4 +162,11 @@ Starting from `x₀=1`, calculate the first two iterations for the square root o
 - [ ] I distinguish zero, blank, text, and errors.
 - [ ] I can state an iterative rule and its stopping condition.
 
+## Further reading
+
+1. Michael Alexander & Dick Kusleika, *Microsoft Excel 365 Bible*, 2nd ed., Wiley, 2025.
+2. Bernard Liengme & Keith Hekman, *Liengme’s Guide to Excel 2016 for Scientists and Engineers*, Academic Press, 2019.
+3. Ronald W. Larsen, *Engineering with Excel*, 5th ed., Pearson, 2017.
+4. Wayne L. Winston, *Microsoft Excel Data Analysis and Business Modeling*, 6th ed., Microsoft Press, 2019.
+
 [← Module 1](01-computers-and-operating-systems.md) · [Module list](README.md) · [Module 3 →](03-excel-if.md)

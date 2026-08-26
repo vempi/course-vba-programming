@@ -170,4 +170,11 @@ In the Excel demo, identify the input, process, output, application, scripting l
 - [ ] I can distinguish an application from a script.
 - [ ] I can justify when a small automation tool is appropriate.
 
+## Further reading
+
+1. J. Glenn Brookshear & Dennis Brylow, *Computer Science: An Overview*, 13th ed., Pearson, 2019.
+2. Andrew S. Tanenbaum & Herbert Bos, *Modern Operating Systems*, 4th ed., Pearson, 2014.
+3. Abraham Silberschatz, Peter B. Galvin & Greg Gagne, *Operating System Concepts*, 10th ed., Wiley, 2018.
+4. Ronald W. Larsen, *Engineering with Excel*, 5th ed., Pearson, 2017.
+
 [← Module list](README.md) · [Module 2 →](02-excel-fundamentals.md)

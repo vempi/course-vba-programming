@@ -252,4 +252,12 @@ Why should the volume formula belong to `RectangularVolume`, while worksheet rea
 - [ ] I distinguish the roles of Function and Sub.
 - [ ] All five rows are processed even when one row is invalid.
 
+## Further reading
+
+1. Michael Alexander & Dick Kusleika, *Excel 2019 Power Programming with VBA*, Wiley, 2019.
+2. Bill Jelen & Tracy Syrstad, *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)*, Microsoft Press, 2022.
+3. Steve McConnell, *Code Complete*, 2nd ed., Microsoft Press, 2004.
+4. Brian W. Kernighan & Rob Pike, *The Practice of Programming*, Addison-Wesley, 1999.
+5. E. Joseph Billo, *Excel for Scientists and Engineers: Numerical Methods*, Wiley, 2007.
+
 [← Module 5](05-vba-and-linear-macros.md) · [Module list](README.md) · [Module 7 →](07-userforms-and-controls.md)

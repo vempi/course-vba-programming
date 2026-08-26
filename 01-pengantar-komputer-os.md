@@ -170,4 +170,11 @@ Pada demo Excel, jelaskan apa yang berperan sebagai input, proses, output, aplik
 - [ ] Saya dapat menjelaskan perbedaan aplikasi dan script.
 - [ ] Saya dapat memberi alasan kapan otomasi kecil layak dibuat.
 
+## Bacaan lanjut
+
+1. J. Glenn Brookshear & Dennis Brylow, *Computer Science: An Overview*, 13th ed., Pearson, 2019.
+2. Andrew S. Tanenbaum & Herbert Bos, *Modern Operating Systems*, 4th ed., Pearson, 2014.
+3. Abraham Silberschatz, Peter B. Galvin & Greg Gagne, *Operating System Concepts*, 10th ed., Wiley, 2018.
+4. Ronald W. Larsen, *Engineering with Excel*, 5th ed., Pearson, 2017.
+
 [← Daftar modul](README.md) · [Modul 2 →](02-dasar-excel.md)

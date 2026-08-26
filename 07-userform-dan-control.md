@@ -220,4 +220,11 @@ Kelompokkan contoh berikut sebagai property, method, atau event: `Caption`, `Set
 
 UserForm menghubungkan pengguna dengan algoritma. Antarmuka yang baik memandu input, tetapi kualitas hasil tetap bergantung pada fungsi yang benar, validasi yang jelas, dan pengujian yang dapat dibuktikan.
 
+## Bacaan lanjut
+
+1. Michael Alexander & Dick Kusleika, *Excel 2019 Power Programming with VBA*, Wiley, 2019.
+2. Bill Jelen & Tracy Syrstad, *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)*, Microsoft Press, 2022.
+3. Steve Krug, *Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability*, 3rd ed., New Riders, 2014.
+4. Ben Shneiderman dkk., *Designing the User Interface: Strategies for Effective Human-Computer Interaction*, 6th ed., Pearson, 2016.
+
 [← Modul 6](06-input-output-dan-modularitas.md) · [Daftar modul](README.md)

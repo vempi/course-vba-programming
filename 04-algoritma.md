@@ -205,4 +205,11 @@ Untuk data volume `3, 5, -2, 4`, algoritma hanya menjumlahkan nilai positif. Bua
 - [ ] Saya membedakan urutan, percabangan, dan perulangan.
 - [ ] Saya dapat menelusuri perubahan nilai dengan tabel jejak.
 
+## Bacaan lanjut
+
+1. Thomas H. Cormen, *Algorithms Unlocked*, MIT Press, 2013.
+2. David Harel & Yishai Feldman, *Algorithmics: The Spirit of Computing*, 3rd ed., Addison-Wesley, 2004.
+3. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein, *Introduction to Algorithms*, 4th ed., MIT Press, 2022.
+4. Steven C. Chapra & Raymond P. Canale, *Numerical Methods for Engineers*, 8th ed., McGraw-Hill, 2021.
+
 [← Modul 3](03-fungsi-excel-dan-if.md) · [Daftar modul](README.md) · [Modul 5 →](05-vba-dan-macro-linier.md)

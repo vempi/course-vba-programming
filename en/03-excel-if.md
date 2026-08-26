@@ -174,4 +174,11 @@ A student receives 100 for assignments, 50 for the midterm, and 50 for the final
 - [ ] I validate the domain before classifying.
 - [ ] I test exactly at every boundary.
 
+## Further reading
+
+1. Michael Alexander & Dick Kusleika, *Microsoft Excel 365 Bible*, 2nd ed., Wiley, 2025.
+2. Wayne L. Winston, *Microsoft Excel Data Analysis and Business Modeling*, 6th ed., Microsoft Press, 2019.
+3. Bernard Liengme & Keith Hekman, *Liengme’s Guide to Excel 2016 for Scientists and Engineers*, Academic Press, 2019.
+4. E. Joseph Billo, *Excel for Scientists and Engineers: Numerical Methods*, Wiley, 2007.
+
 [← Module 2](02-excel-fundamentals.md) · [Module list](README.md) · [Module 4 →](04-algorithms.md)

@@ -214,4 +214,11 @@ Classify these as property, method, or event: `Caption`, `SetFocus`, `Click`, `V
 
 A UserForm connects the user to an algorithm. A good interface guides input, but result quality still depends on a correct function, clear validation, and evidence from testing.
 
+## Further reading
+
+1. Michael Alexander & Dick Kusleika, *Excel 2019 Power Programming with VBA*, Wiley, 2019.
+2. Bill Jelen & Tracy Syrstad, *Microsoft Excel VBA and Macros (Office 2021 and Microsoft 365)*, Microsoft Press, 2022.
+3. Steve Krug, *Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability*, 3rd ed., New Riders, 2014.
+4. Ben Shneiderman et al., *Designing the User Interface: Strategies for Effective Human-Computer Interaction*, 6th ed., Pearson, 2016.
+
 [← Module 6](06-input-output-and-modularity.md) · [Module list](README.md)

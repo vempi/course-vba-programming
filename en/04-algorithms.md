@@ -196,4 +196,11 @@ For `3, 5, -2, 4`, an algorithm sums only positive values. Make a trace table co
 - [ ] I distinguish sequence, selection, and repetition.
 - [ ] I can trace changing values in a table.
 
+## Further reading
+
+1. Thomas H. Cormen, *Algorithms Unlocked*, MIT Press, 2013.
+2. David Harel & Yishai Feldman, *Algorithmics: The Spirit of Computing*, 3rd ed., Addison-Wesley, 2004.
+3. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein, *Introduction to Algorithms*, 4th ed., MIT Press, 2022.
+4. Steven C. Chapra & Raymond P. Canale, *Numerical Methods for Engineers*, 8th ed., McGraw-Hill, 2021.
+
 [← Module 3](03-excel-if.md) · [Module list](README.md) · [Module 5 →](05-vba-and-linear-macros.md)
