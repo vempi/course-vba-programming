@@ -157,6 +157,8 @@ Pada demo Excel, jelaskan apa yang berperan sebagai input, proses, output, aplik
 <details>
 <summary>Kunci dan indikator pemahaman</summary>
 
+**Kunci dan indikator pemahaman**
+
 1. `10110₂ = 16 + 0 + 4 + 2 + 0 = 22₁₀`.
 2. Jawaban yang masuk akal adalah script Excel kecil karena alurnya khusus dan berulang. Risiko: rumus/satuan salah atau data lama tertimpa; mitigasinya pengujian, validasi, dan salinan data.
 3. Input: B1/B2; proses: perkalian; output: B3; aplikasi: Excel; bahasa: VBA; OS: misalnya Windows yang mengelola aplikasi dan perangkat.

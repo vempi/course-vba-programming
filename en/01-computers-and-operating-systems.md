@@ -157,6 +157,8 @@ In the Excel demo, identify the input, process, output, application, scripting l
 <details>
 <summary>Answer key and evidence of understanding</summary>
 
+**Answer key and evidence of understanding**
+
 1. `10110₂ = 16 + 0 + 4 + 2 + 0 = 22₁₀`.
 2. A small Excel script is reasonable because the workflow is specialised and repeated. Risks include incorrect formulas/units or overwriting data; mitigate them with tests, validation, and backups.
 3. Inputs: B1 and B2; process: multiplication; output: B3; application: Excel; language: VBA; OS: for example Windows, which manages the application and hardware.
