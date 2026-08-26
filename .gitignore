@@ -1,0 +1,7 @@
+# Berkas sementara Microsoft Office
+~$*
+*.tmp
+
+# Berkas sistem
+Thumbs.db
+.DS_Store
