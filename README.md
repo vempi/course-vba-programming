@@ -1,6 +1,6 @@
 # Pengantar Komputer, Excel, dan VBA untuk Teknik Sipil
 
-**Bahasa:** Indonesia · English version (segera hadir)
+**Bahasa:** Indonesia · [English version](en/README.md)
 
 Paket materi Markdown untuk Program Sarjana Teknik Sipil, Departemen Teknik Sipil dan Lingkungan, Universitas Gadjah Mada. Materi menggunakan Excel dan VBA sebagai lingkungan utama, dengan demonstrasi opsional VBA AutoCAD.
 
