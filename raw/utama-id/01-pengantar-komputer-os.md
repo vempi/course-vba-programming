@@ -20,7 +20,7 @@ Mahasiswa mampu:
 | 38–53 | Bilangan desimal, biner, bit, dan byte |
 | 53–68 | Program komputer dalam teknik sipil |
 | 68–82 | Demo VBA Excel dan VBA AutoCAD |
-| 82–95 | Kuis tiga soal |
+| 82–95 | Latihan singkat tiga soal |
 | 95–100 | Pemeriksaan dan *exit ticket* |
 
 **Keluaran minimum:** satu diagram cara kerja komputer, satu keputusan *pakai–adaptasi–buat*, dan hasil pengamatan dua script sederhana.
@@ -140,11 +140,11 @@ End Sub
 
 Hierarki `ThisDrawing.ModelSpace.AddLine` mengikuti model objek ActiveX AutoCAD pada [dokumentasi resmi Autodesk](https://help.autodesk.com/cloudhelp/2024/CHS/AutoCAD-ActiveX/files/GUID-D4FF317D-16DA-42D8-8309-8260B7427E55.htm).
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 
-Tanpa kalkulator, ubah `10110₂` ke desimal. Tunjukkan bobot setiap digit.
+Jika pengguna mengisi `B1` dan `B2`, lalu menjalankan macro `DemoExcel`, urutkan alur yang terjadi sampai hasil muncul di `B3`. Gunakan istilah: input, Excel, VBA, CPU/memori, worksheet, dan output.
 
 ### 2. Praktik keputusan
 
@@ -159,7 +159,7 @@ Pada demo Excel, jelaskan apa yang berperan sebagai input, proses, output, aplik
 
 **Kunci dan indikator pemahaman**
 
-1. `10110₂ = 16 + 0 + 4 + 2 + 0 = 22₁₀`.
+1. Urutan yang masuk akal: pengguna memberi input melalui worksheet, Excel menjalankan macro VBA, OS mengatur proses dan memori, CPU mengeksekusi instruksi perkalian, lalu Excel menulis output ke `B3`.
 2. Jawaban yang masuk akal adalah script Excel kecil karena alurnya khusus dan berulang. Risiko: rumus/satuan salah atau data lama tertimpa; mitigasinya pengujian, validasi, dan salinan data.
 3. Input: B1/B2; proses: perkalian; output: B3; aplikasi: Excel; bahasa: VBA; OS: misalnya Windows yang mengelola aplikasi dan perangkat.
 

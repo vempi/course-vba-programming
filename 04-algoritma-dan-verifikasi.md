@@ -23,7 +23,7 @@ Mahasiswa mampu:
 | 60–72 | Tabel jejak sebagai alat debugging | §7 |
 | 72–80 | Menerjemahkan algoritma ke Excel/VBA | §8 |
 | 80–90 | Praktik tekanan pondasi | §9 |
-| 90–97 | Kuis tiga soal | Kuis |
+| 90–97 | Latihan singkat tiga soal | Latihan |
 | 97–100 | Pemeriksaan dan checklist | Checklist |
 
 **Keluaran minimum:** satu tabel IPO, pseudocode, flowchart, dan tabel jejak untuk satu kasus teknik, ditutup dengan satu hitungan manual sebagai pembanding.
@@ -259,7 +259,7 @@ Gunakan data awal `P = 900 kN`, `B = 2 m`, `L = 3 m`. **Hasil acuan adalah `150 
 
 Tambahkan input beban dalam ton-gaya, lalu konversikan ke kN dengan asumsi `1 tf = 9,80665 kN`. Tuliskan asumsi konversi pada lembar kerja sebagai sel berlabel, jangan menanamkannya di dalam rumus.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi dan urutkan
 

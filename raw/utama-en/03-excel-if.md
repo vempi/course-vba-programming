@@ -20,7 +20,7 @@ Students will be able to:
 | 40–55 | Nested `IF` and condition order |
 | 55–75 | Build an A–E grade classifier |
 | 75–84 | Test boundaries and invalid inputs |
-| 84–97 | Three-question quiz |
+| 84–97 | Three-question short exercise |
 | 97–100 | Checklist |
 
 **Minimum product:** a student-grade table that calculates a weighted result, pass status, and A–E grade correctly at every boundary.
@@ -140,7 +140,7 @@ Before trusting the formula, write expected and actual outcomes:
 
 Testing one ordinary value does not prove that all boundaries are correct.
 
-## High-impact quiz — 3 questions
+## Short exercise — 3 questions
 
 ### 1. Predict
 

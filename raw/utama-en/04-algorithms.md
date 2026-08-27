@@ -20,7 +20,7 @@ Students will be able to:
 | 40–55 | Pseudocode for an excavation-volume case |
 | 55–70 | Flowchart and trace table |
 | 70–82 | Translate the algorithm to Excel/VBA |
-| 82–95 | Three-question quiz |
+| 82–95 | Three-question short exercise |
 | 95–100 | Review and checklist |
 
 **Minimum product:** one IPO table, pseudocode, flowchart, and trace table for a civil engineering volume problem.
@@ -166,7 +166,7 @@ volume_m3 = length_m * width_m * depth_m
 
 The notation changes; the underlying logic does not.
 
-## High-impact quiz — 3 questions
+## Short exercise — 3 questions
 
 ### 1. Predict and arrange
 

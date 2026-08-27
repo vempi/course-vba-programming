@@ -25,7 +25,7 @@ Mahasiswa mampu:
 | 56–64 | Validasi dan penanganan galat terarah | §10 |
 | 64–80 | Pengujian dengan nilai acuan | §11 |
 | 80–90 | Praktik `VolumePipa` beserta ujinya | §12 |
-| 90–97 | Kuis tiga soal | Kuis |
+| 90–97 | Latihan singkat tiga soal | Latihan |
 | 97–100 | Compile dan checklist | Checklist |
 
 **Keluaran minimum:** satu `Function` terdokumentasi beserta satu `Sub` yang memakainya untuk memproses sedikitnya lima baris, dan tiga pengujian yang mencakup kasus normal, batas, serta tidak valid.
@@ -447,7 +447,7 @@ End Function
 
 Buat lembar `Hujan` dengan 30 nilai hujan harian pada `A2:A31`. Tulis macro yang membaca data ke array, menolak nilai negatif atau nonnumerik, lalu menghitung jumlah hari valid, total, rata-rata, dan maksimum **tanpa fungsi worksheet**. Untuk data uji `10, 0, 25, 5, 10`: jumlah data 5, total 50 mm, rata-rata 10 mm, maksimum 25 mm.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

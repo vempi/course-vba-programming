@@ -20,7 +20,7 @@ Mahasiswa mampu:
 | 40–55 | `IF` majemuk dan urutan kondisi |
 | 55–75 | Praktik penilaian A–E |
 | 75–84 | Pengujian nilai batas dan input salah |
-| 84–97 | Kuis tiga soal |
+| 84–97 | Latihan singkat tiga soal |
 | 97–100 | Checklist |
 
 **Keluaran minimum:** satu tabel nilai mahasiswa yang menghitung rata-rata, status lulus, dan huruf A–E secara benar pada seluruh batas.
@@ -131,7 +131,7 @@ Uji minimal nilai akhir: `-1, 0, 49, 50, 59, 60, 69, 70, 79, 80, 100, 101`.
 
 Untuk aturan yang sering berubah, tabel referensi dan fungsi pencarian biasanya lebih mudah dirawat daripada IF bertingkat. Itu dapat dipelajari sebagai pengayaan.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

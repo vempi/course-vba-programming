@@ -25,7 +25,7 @@ Mahasiswa mampu:
 | 56–66 | Demonstrasi macro pertama | §8 |
 | 66–78 | Demonstrasi volume pelat dan jejak eksekusi | §9 |
 | 78–88 | Praktik mandiri volume sloof + 5% | §11 |
-| 88–97 | Kuis tiga soal | Kuis |
+| 88–97 | Latihan singkat tiga soal | Latihan |
 | 97–100 | Pemeriksaan dan *exit ticket* | Checklist |
 
 **Keluaran minimum:** satu diagram cara kerja komputer, satu keputusan *pakai–adaptasi–buat*, satu workbook `.xlsm`, dan satu macro yang hasilnya cocok dengan hitungan manual.
@@ -278,11 +278,11 @@ Kasus batas sengaja dibiarkan terbuka. Modul 3 dan Modul 5 menunjukkan cara prog
 3. Bagaimana memastikan semua input memakai meter, bukan sentimeter?
 4. *Exit ticket* — satu kalimat: kapan rumus Excel sudah cukup dan kapan VBA lebih bermanfaat?
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 
-Tanpa kalkulator, ubah `10110₂` ke desimal. Tunjukkan bobot setiap digit.
+Jika mahasiswa membuka workbook `.xlsm`, mengisi `B2:B4`, lalu menekan tombol macro, urutkan komponen yang terlibat dari pengguna sampai hasil muncul di worksheet. Gunakan istilah: input, aplikasi Excel, VBA, CPU/memori, worksheet, dan output.
 
 ### 2. Praktik keputusan
 
@@ -295,7 +295,7 @@ Pada `HitungVolumePelat`, jelaskan apa yang berperan sebagai input, proses, outp
 <details>
 <summary>Kunci dan indikator pemahaman</summary>
 
-1. `10110₂ = 16 + 0 + 4 + 2 + 0 = 22₁₀`.
+1. Urutan yang masuk akal: pengguna memberi input melalui keyboard/mouse, Excel menerima data di worksheet, macro VBA dibaca oleh aplikasi Excel, OS mengatur proses dan memori, CPU menjalankan instruksi, lalu Excel menulis output kembali ke worksheet.
 2. Jawaban yang masuk akal adalah script Excel kecil karena alurnya khusus dan berulang. Risiko: rumus/satuan salah atau data lama tertimpa; mitigasinya pengujian, validasi, dan salinan data.
 3. Input: B2/B3/B4; proses: perkalian di dalam macro; output: B6; aplikasi: Excel; bahasa: VBA; OS: misalnya Windows yang mengelola aplikasi dan perangkat. Pemeriksaan: hitung `6 × 4 × 0,15` secara manual dan bandingkan, sekaligus pastikan seluruh input memakai meter.
 

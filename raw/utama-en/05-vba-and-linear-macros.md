@@ -21,7 +21,7 @@ Students will be able to:
 | 42–57 | Read and simplify the recording |
 | 57–75 | Build a linear concrete-volume macro |
 | 75–84 | Compile, run, and classify errors |
-| 84–97 | Three-question quiz |
+| 84–97 | Three-question short exercise |
 | 97–100 | Save `.xlsm` and complete checklist |
 
 **Minimum product:** one simplified recorded macro and one original linear macro that reads input, calculates, and writes output.
@@ -155,7 +155,7 @@ ws.Range("B7").Value = orderVolume_m3
 
 Test after every small change rather than allowing many untested changes to accumulate.
 
-## High-impact quiz — 3 questions
+## Short exercise — 3 questions
 
 ### 1. Predict
 

@@ -21,7 +21,7 @@ Students will be able to:
 | 40–58 | Demonstrate the Calculate button event |
 | 58–76 | Build a concrete-volume form |
 | 76–86 | Validation, Clear button, and Close button |
-| 86–97 | Three-question quiz and peer demonstration |
+| 86–97 | Three-question short exercise and peer demonstration |
 | 97–100 | Save, compile, and complete final checklist |
 
 **Minimum product:** one UserForm with three inputs, one output, and Calculate, Clear, and Close buttons; invalid input must produce a clear message.
@@ -179,7 +179,7 @@ One-minute individual demonstration:
 - do not store results before input is valid; and
 - provide a way to cancel or close the form.
 
-## High-impact quiz — 3 questions
+## Short exercise — 3 questions
 
 ### 1. Predict
 

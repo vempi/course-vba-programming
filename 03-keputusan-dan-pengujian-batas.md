@@ -22,7 +22,7 @@ Mahasiswa mampu:
 | 50–64 | Praktik penilaian A–E | §5 |
 | 64–74 | Klasifikasi besaran teknik | §6 |
 | 74–86 | Menyusun dan menjalankan tabel uji batas | §7 |
-| 86–97 | Kuis tiga soal | Kuis |
+| 86–97 | Latihan singkat tiga soal | Latihan |
 | 97–100 | Checklist | Checklist |
 
 **Keluaran minimum:** satu tabel nilai mahasiswa yang menghitung rata-rata, status valid, dan huruf A–E secara benar pada seluruh batas, disertai satu tabel uji berisi minimal tujuh kasus.
@@ -193,7 +193,7 @@ Kolom **aktual** dan **status** diisi setelah formula dijalankan. Pola pencatata
 
 Untuk aturan yang sering berubah, tabel referensi dan fungsi pencarian biasanya lebih mudah dirawat daripada `IF` bertingkat. Itu dapat dipelajari sebagai pengayaan.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

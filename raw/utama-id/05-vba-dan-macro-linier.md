@@ -21,7 +21,7 @@ Mahasiswa mampu:
 | 42–57 | Membaca dan membersihkan hasil rekaman |
 | 57–75 | Membuat macro linier volume beton |
 | 75–84 | Compile, jalankan, dan bedakan jenis galat |
-| 84–97 | Kuis tiga soal |
+| 84–97 | Latihan singkat tiga soal |
 | 97–100 | Simpan `.xlsm` dan checklist |
 
 **Keluaran minimum:** satu macro rekaman yang telah dibersihkan dan satu macro linier buatan sendiri yang membaca input, menghitung, serta menulis hasil.
@@ -156,7 +156,7 @@ ThisWorkbook.Worksheets("Volume").Range("B7").Value = volumePesan_m3
 
 Uji program setelah setiap perubahan kecil. Jangan menunggu sampai banyak perubahan menumpuk.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

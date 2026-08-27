@@ -20,7 +20,7 @@ Mahasiswa mampu:
 | 40–55 | Pseudocode kasus volume pekerjaan |
 | 55–70 | Flowchart dan tabel jejak |
 | 70–82 | Menerjemahkan algoritma ke Excel/VBA |
-| 82–95 | Kuis tiga soal |
+| 82–95 | Latihan singkat tiga soal |
 | 95–100 | Pemeriksaan dan checklist |
 
 **Keluaran minimum:** satu tabel IPO, pseudocode, flowchart, dan tabel jejak untuk satu kasus volume teknik sipil.
@@ -175,7 +175,7 @@ volume_m3 = panjang_m * lebar_m * kedalaman_m
 
 Bahasa mengubah cara penulisan, bukan logika dasarnya.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi dan urutkan
 

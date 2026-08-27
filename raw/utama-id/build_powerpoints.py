@@ -96,7 +96,7 @@ def schedule_slide(prs, title, rows):
     return slide
 
 
-def quiz_slide(prs, questions, title="Kuis Singkat"):
+def exercise_slide(prs, questions, title="Latihan Singkat"):
     slide = content_slide(prs, title, [
         plain("Kerjakan mandiri 6 menit, lalu diskusi cepat 7 menit.", size=15, color=NAVY, bold=True),
         bullet(questions[0], kind="num", size=14.5),
@@ -161,7 +161,7 @@ DECKS = [
             ["38-53", "Biner, bit, byte, pembulatan", "Konversi 1101"],
             ["53-68", "Software vs script di teknik sipil", "Keputusan pakai-adaptasi-buat"],
             ["68-82", "Demo VBA Excel dan AutoCAD", "Amati input-proses-output"],
-            ["82-100", "Kuis, pembahasan, exit ticket", "3 jawaban inti"],
+            ["82-100", "Latihan, pembahasan, exit ticket", "3 jawaban inti"],
         ],
         "sections": [
             ("Cara Belajar di MK Ini", [
@@ -206,8 +206,8 @@ DECKS = [
             bullet("Tandai input, proses, dan output pada spreadsheet."),
             bullet("Diskusikan: kapan contoh ini cukup menjadi formula Excel, kapan layak jadi macro?"),
         ],
-        "quiz": [
-            "Ubah 10110 biner ke desimal dan tuliskan bobot tiap digit.",
+        "exercise": [
+            "Jika pengguna mengisi B1 dan B2 lalu menjalankan DemoExcel, urutkan alur input, Excel, VBA, CPU/memori, worksheet, dan output.",
             "Untuk 500 segmen saluran per minggu, pilih software, aplikasi besar, atau script Excel kecil. Beri dua alasan dan satu risiko.",
             "Pada demo Excel, sebutkan input, proses, output, aplikasi, bahasa script, dan OS.",
         ],
@@ -230,7 +230,7 @@ DECKS = [
             ["45-60", "Jenis data dan bilangan", "Cek angka vs teks"],
             ["60-75", "Error, nol, dan iterasi", "Lacak #DIV/0!"],
             ["75-90", "Fungsi Excel dasar", "Mini tabel"],
-            ["90-100", "Kuis dan exit ticket", "3 jawaban inti"],
+            ["90-100", "Latihan dan exit ticket", "3 jawaban inti"],
         ],
         "sections": [
             ("Excel sebagai Model Hitung", [
@@ -263,7 +263,7 @@ DECKS = [
             bullet("Salin formula luas dan amati mana referensi yang berubah."),
             bullet("Buat satu kesalahan #DIV/0!, lalu jelaskan penyebabnya."),
         ],
-        "quiz": [
+        "exercise": [
             "Apa perbedaan isi cell 10, '10', dan =5+5?",
             "Kapan memakai $B$1 pada formula yang disalin ke banyak baris?",
             "Mengapa nilai nol tidak boleh selalu diperlakukan sama dengan cell kosong?",
@@ -287,7 +287,7 @@ DECKS = [
             ["43-60", "IF tunggal", "Lulus/tidak"],
             ["60-78", "IF majemuk", "A-B-C-D-E"],
             ["78-92", "Latihan kasus nilai", "Tabel penilaian"],
-            ["92-100", "Kuis dan exit ticket", "3 jawaban inti"],
+            ["92-100", "Latihan dan exit ticket", "3 jawaban inti"],
         ],
         "sections": [
             ("Fungsi Excel", [
@@ -320,7 +320,7 @@ DECKS = [
             bullet("Uji nilai 49, 50, 59, 60, 69, 70, 79, 80."),
             bullet("Jelaskan satu baris formula IF dengan bahasa manusia."),
         ],
-        "quiz": [
+        "exercise": [
             "Prediksi hasil =IF(75>=70,\"B\",\"C\").",
             "Mengapa nilai 80 harus diuji saat membuat kategori A?",
             "Tuliskan aturan IF majemuk untuk A, B, C, D, E dalam kalimat.",
@@ -344,7 +344,7 @@ DECKS = [
             ["43-62", "Flowchart", "Simbol utama"],
             ["62-80", "Pseudocode", "Versi bahasa manusia"],
             ["80-93", "Terjemah ke Excel/VBA", "Program kecil"],
-            ["93-100", "Kuis dan exit ticket", "3 jawaban inti"],
+            ["93-100", "Latihan dan exit ticket", "3 jawaban inti"],
         ],
         "sections": [
             ("Dari Masalah ke Langkah", [
@@ -377,7 +377,7 @@ DECKS = [
             bullet("Tulis input, proses, dan output dalam tiga baris."),
             bullet("Ubah menjadi pseudocode dan flowchart sederhana."),
         ],
-        "quiz": [
+        "exercise": [
             "Sebutkan input, proses, dan output untuk hitungan volume beton balok.",
             "Mengapa algoritma perlu diuji dengan angka sederhana sebelum coding?",
             "Kapan flowchart lebih membantu daripada pseudocode?",
@@ -401,7 +401,7 @@ DECKS = [
             ["45-62", "Record macro", "Kode hasil rekaman"],
             ["62-80", "Rapikan macro linier", "Macro terbaca"],
             ["80-93", "Latihan hitungan sederhana", "Tombol/run macro"],
-            ["93-100", "Kuis dan exit ticket", "3 jawaban inti"],
+            ["93-100", "Latihan dan exit ticket", "3 jawaban inti"],
         ],
         "sections": [
             ("Komponen Excel", [
@@ -438,7 +438,7 @@ DECKS = [
             bullet("Buka kode hasil rekaman dan hapus langkah yang tidak perlu."),
             bullet("Tambahkan satu baris hitungan luas dari input B1 dan B2."),
         ],
-        "quiz": [
+        "exercise": [
             "Apa bedanya formula di cell dengan macro VBA?",
             "Mengapa hasil record macro biasanya perlu dirapikan?",
             "Apa fungsi `Option Explicit` dalam belajar VBA?",
@@ -462,7 +462,7 @@ DECKS = [
             ["45-60", "Array", "Data berulang"],
             ["60-78", "Function", "Rumus modular"],
             ["78-92", "Subroutine", "Prosedur utama"],
-            ["92-100", "Kuis dan exit ticket", "3 jawaban inti"],
+            ["92-100", "Latihan dan exit ticket", "3 jawaban inti"],
         ],
         "sections": [
             ("Input-Output VBA", [
@@ -509,7 +509,7 @@ DECKS = [
             bullet("Buat Sub yang membaca B1:B3 dan menulis hasil di B4."),
             bullet("Uji dengan angka 2, 3, 4 sehingga hasil manualnya 24."),
         ],
-        "quiz": [
+        "exercise": [
             "Kapan lebih tepat memakai Cells(i, 2) daripada Range(\"B2\")?",
             "Apa perbedaan utama Function dan Subroutine?",
             "Mengapa variabel public perlu dipakai dengan hati-hati?",
@@ -533,7 +533,7 @@ DECKS = [
             ["42-60", "Event", "Klik tombol"],
             ["60-78", "Contoh form hitung luas/volume", "Demo"],
             ["78-93", "Praktik integratif pra-UTS", "Mini aplikasi"],
-            ["93-100", "Kuis dan exit ticket", "3 jawaban inti"],
+            ["93-100", "Latihan dan exit ticket", "3 jawaban inti"],
         ],
         "sections": [
             ("UserForm", [
@@ -574,7 +574,7 @@ DECKS = [
             bullet("Buat fungsi hitung terpisah dari event tombol."),
             bullet("Uji input normal, input kosong, dan input nol."),
         ],
-        "quiz": [
+        "exercise": [
             "Apa bedanya property Name dan Caption pada sebuah Button?",
             "Mengapa kode event sebaiknya tidak terlalu panjang?",
             "Sebutkan dua kasus uji untuk mini aplikasi hitungan luas.",
@@ -613,7 +613,7 @@ def build_deck(data):
         code_slide(prs, "Contoh Script VBA", data["code"], note="Fokus observasi: input, proses, output, dan lokasi data.")
 
     content_slide(prs, "Latihan Kelas", data["activity"], base_size=16)
-    quiz_slide(prs, data["quiz"])
+    exercise_slide(prs, data["exercise"])
     content_slide(prs, "Exit Ticket", [
         bullet("Tulis satu konsep yang sudah jelas."),
         bullet("Tulis satu bagian yang masih membingungkan."),

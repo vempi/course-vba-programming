@@ -23,7 +23,7 @@ Mahasiswa mampu:
 | 55–68 | Audit satuan dan konversi eksplisit | §7 |
 | 68–78 | Nol, sel kosong, teks, dan nilai galat | §8 |
 | 78–86 | Ilustrasi proses iterasi | §9 |
-| 86–97 | Kuis tiga soal | Kuis |
+| 86–97 | Latihan singkat tiga soal | Latihan |
 | 97–100 | Pemeriksaan dan checklist | Checklist |
 
 **Keluaran minimum:** satu tabel volume/biaya yang dapat disalin ke bawah tanpa salah acuan, satu kotak ringkasan fungsi, satu baris audit satuan, serta satu tabel iterasi lima langkah.
@@ -174,7 +174,7 @@ Dua gagasan di sini akan dipakai lagi: **kondisi berhenti** menjadi syarat setia
 
 > Ini contoh numerik yang dihitung baris per baris. Hindari mengaktifkan iterasi workbook (*iterative calculation*) tanpa memahami circular reference dan kondisi berhentinya.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

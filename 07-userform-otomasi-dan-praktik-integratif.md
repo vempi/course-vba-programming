@@ -583,7 +583,7 @@ Catat input, hasil harapan, hasil aktual, dan status lulus/gagal untuk setiap uj
 - pindahkan pengolahan tabel ke array 2D agar lebih efisien; atau
 - tulis ulang satu fungsi dalam Python dan bandingkan hasilnya.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

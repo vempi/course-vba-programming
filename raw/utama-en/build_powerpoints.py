@@ -95,7 +95,7 @@ def schedule_slide(prs, title, rows):
     return slide
 
 
-def quiz_slide(prs, questions, title="Short Quiz"):
+def exercise_slide(prs, questions, title="Short Exercise"):
     content_slide(prs, title, [
         plain("Work individually for 6 minutes, then discuss quickly for 7 minutes.", size=15, color=NAVY, bold=True),
         bullet(questions[0], kind="num", size=14.5),
@@ -158,7 +158,7 @@ DECKS = [
             ["38-53", "Binary, bits, bytes, rounding", "Convert 1101"],
             ["53-68", "Software vs scripts in civil engineering", "Use-adapt-build choice"],
             ["68-82", "Excel VBA and AutoCAD VBA demo", "Observe input-process-output"],
-            ["82-100", "Quiz, discussion, exit ticket", "Three core answers"],
+            ["82-100", "Exercise, discussion, exit ticket", "Three core answers"],
         ],
         "sections": [
             ("How We Learn", [
@@ -203,8 +203,8 @@ DECKS = [
             bullet("Mark the input, process, and output on the spreadsheet."),
             bullet("Discuss: when is a formula enough, and when does it deserve a macro?"),
         ],
-        "quiz": [
-            "Convert binary 10110 to decimal and show the weight of every digit.",
+        "exercise": [
+            "If a user fills B1 and B2 then runs ExcelDemo, order the flow through input, Excel, VBA, CPU/memory, worksheet, and output.",
             "For 500 channel segments every week, choose software, a large application, or a small Excel script. Give two reasons and one risk.",
             "In the Excel demo, identify input, process, output, application, scripting language, and OS.",
         ],
@@ -227,7 +227,7 @@ DECKS = [
             ["45-60", "Data and number types", "Number vs text check"],
             ["60-75", "Errors, zero, and iteration", "Trace #DIV/0!"],
             ["75-90", "Basic Excel functions", "Mini table"],
-            ["90-100", "Quiz and exit ticket", "Three core answers"],
+            ["90-100", "Exercise and exit ticket", "Three core answers"],
         ],
         "sections": [
             ("Excel as a Model", [
@@ -260,7 +260,7 @@ DECKS = [
             bullet("Copy the area formula and observe which references change."),
             bullet("Create one #DIV/0! error, then explain its cause."),
         ],
-        "quiz": [
+        "exercise": [
             "What is the difference among the cell contents 10, '10', and =5+5?",
             "When should $B$1 be used in a formula copied across many rows?",
             "Why should zero not always be treated the same as a blank cell?",
@@ -284,7 +284,7 @@ DECKS = [
             ["43-60", "Single IF", "Pass/fail"],
             ["60-78", "Nested IF", "A-B-C-D-E"],
             ["78-92", "Student grade exercise", "Grade table"],
-            ["92-100", "Quiz and exit ticket", "Three core answers"],
+            ["92-100", "Exercise and exit ticket", "Three core answers"],
         ],
         "sections": [
             ("Excel Functions", [
@@ -317,7 +317,7 @@ DECKS = [
             bullet("Test scores 49, 50, 59, 60, 69, 70, 79, and 80."),
             bullet("Explain one IF formula line in ordinary language."),
         ],
-        "quiz": [
+        "exercise": [
             "Predict the result of =IF(75>=70,\"B\",\"C\").",
             "Why must score 80 be tested when creating grade A?",
             "Write the nested IF grading rule A, B, C, D, E in sentences.",
@@ -341,7 +341,7 @@ DECKS = [
             ["43-62", "Flowcharts", "Main symbols"],
             ["62-80", "Pseudocode", "Human-readable version"],
             ["80-93", "Translate to Excel/VBA", "Small program"],
-            ["93-100", "Quiz and exit ticket", "Three core answers"],
+            ["93-100", "Exercise and exit ticket", "Three core answers"],
         ],
         "sections": [
             ("Problem to Steps", [
@@ -374,7 +374,7 @@ DECKS = [
             bullet("Write input, process, and output in three lines."),
             bullet("Convert it into pseudocode and a simple flowchart."),
         ],
-        "quiz": [
+        "exercise": [
             "Identify input, process, and output for concrete beam volume.",
             "Why should an algorithm be tested with simple numbers before coding?",
             "When is a flowchart more helpful than pseudocode?",
@@ -398,7 +398,7 @@ DECKS = [
             ["45-62", "Record macro", "Recorded code"],
             ["62-80", "Clean a linear macro", "Readable macro"],
             ["80-93", "Simple calculation exercise", "Run macro/button"],
-            ["93-100", "Quiz and exit ticket", "Three core answers"],
+            ["93-100", "Exercise and exit ticket", "Three core answers"],
         ],
         "sections": [
             ("Excel Components", [
@@ -435,7 +435,7 @@ DECKS = [
             bullet("Open the recorded code and remove unnecessary steps."),
             bullet("Add one area calculation line using inputs B1 and B2."),
         ],
-        "quiz": [
+        "exercise": [
             "What is the difference between a cell formula and a VBA macro?",
             "Why does recorded macro code usually need cleaning?",
             "What does `Option Explicit` do while learning VBA?",
@@ -459,7 +459,7 @@ DECKS = [
             ["45-60", "Arrays", "Repeated data"],
             ["60-78", "Function", "Modular formula"],
             ["78-92", "Subroutine", "Main procedure"],
-            ["92-100", "Quiz and exit ticket", "Three core answers"],
+            ["92-100", "Exercise and exit ticket", "Three core answers"],
         ],
         "sections": [
             ("VBA Input-Output", [
@@ -506,7 +506,7 @@ DECKS = [
             bullet("Create a Sub that reads B1:B3 and writes the result to B4."),
             bullet("Test with 2, 3, and 4 so the manual result is 24."),
         ],
-        "quiz": [
+        "exercise": [
             "When is Cells(i, 2) better than Range(\"B2\")?",
             "What is the main difference between a Function and a Subroutine?",
             "Why should public variables be used carefully?",
@@ -530,7 +530,7 @@ DECKS = [
             ["42-60", "Events", "Button click"],
             ["60-78", "Area/volume form example", "Demo"],
             ["78-93", "Pre-midterm integrative practice", "Mini app"],
-            ["93-100", "Quiz and exit ticket", "Three core answers"],
+            ["93-100", "Exercise and exit ticket", "Three core answers"],
         ],
         "sections": [
             ("UserForm", [
@@ -571,7 +571,7 @@ DECKS = [
             bullet("Keep the calculation function separate from the button event."),
             bullet("Test normal input, blank input, and zero input."),
         ],
-        "quiz": [
+        "exercise": [
             "What is the difference between Name and Caption on a Button?",
             "Why should event code stay short?",
             "Name two test cases for a small area calculation app.",
@@ -611,7 +611,7 @@ def build_deck(data):
         code_slide(prs, "VBA Script Example", data["code"], note="Observation focus: input, process, output, and data location.")
 
     content_slide(prs, "Class Exercise", data["activity"], base_size=16)
-    quiz_slide(prs, data["quiz"])
+    exercise_slide(prs, data["exercise"])
     content_slide(prs, "Exit Ticket", [
         bullet("Write one concept that is now clear."),
         bullet("Write one part that is still confusing."),

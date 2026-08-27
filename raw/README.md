@@ -12,7 +12,7 @@ Folder ini menyimpan tiga paket modul **asli** yang menjadi bahan versi gabungan
 
 Kedua paket mengajarkan pokok yang sama dengan penekanan berbeda:
 
-- **`utama-*`** bergerak dari perangkat keras dan Excel menuju VBA. Excel diperlakukan sebagai lingkungan utama, dan VBA muncul setelah mahasiswa menguasai formula. Kekuatannya pada penjelasan konsep dan kuis yang menguji pemahaman.
+- **`utama-*`** bergerak dari perangkat keras dan Excel menuju VBA. Excel diperlakukan sebagai lingkungan utama, dan VBA muncul setelah mahasiswa menguasai formula. Kekuatannya pada penjelasan konsep dan latihan singkat yang menguji pemahaman.
 - **`secondary-material`** bergerak dari kasus teknik menuju kode. VBA diperkenalkan sejak pertemuan pertama, setiap modul memiliki benang merah kasus hidraulika atau struktur, dan penekanannya pada validasi, debugging, pengujian, serta verifikasi manual.
 
 Versi gabungan di akar repositori memakai **struktur dan konvensi `utama-id`** serta menyerap **substansi teknik, alat debugging, dan disiplin pengujian dari `secondary-material`**.

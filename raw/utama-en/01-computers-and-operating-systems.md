@@ -20,7 +20,7 @@ Students will be able to:
 | 38–53 | Decimal, binary, bits, and bytes |
 | 53–68 | Computer programs in civil engineering |
 | 68–82 | Excel VBA and AutoCAD VBA demonstrations |
-| 82–95 | Three-question quiz |
+| 82–95 | Three-question short exercise |
 | 95–100 | Review and exit ticket |
 
 **Minimum product:** one diagram of how a computer processes work, one *use–adapt–build* decision, and observations from two short scripts.
@@ -160,11 +160,11 @@ End Sub
 
 The `ThisDrawing.ModelSpace.AddLine` hierarchy follows the [official Autodesk ActiveX object hierarchy](https://help.autodesk.com/cloudhelp/2024/CHS/AutoCAD-ActiveX/files/GUID-D4FF317D-16DA-42D8-8309-8260B7427E55.htm).
 
-## High-impact quiz — 3 questions
+## Short exercise — 3 questions
 
 ### 1. Predict
 
-Without a calculator, convert `10110₂` to decimal. Show the weight of every digit.
+If a user fills `B1` and `B2`, then runs the `ExcelDemo` macro, order the components involved until the result appears in `B3`. Use these terms: input, Excel, VBA, CPU/memory, worksheet, and output.
 
 ### 2. Make an engineering decision
 
@@ -182,7 +182,7 @@ In the Excel demo, identify the input, process, output, application, scripting l
 
 **Answer key and evidence of understanding**
 
-1. `10110₂ = 16 + 0 + 4 + 2 + 0 = 22₁₀`.
+1. A reasonable sequence is: the user provides input through the worksheet, Excel runs the VBA macro, the OS manages the process and memory, the CPU executes the multiplication instructions, and Excel writes the output to `B3`.
 2. A small Excel script is reasonable because the workflow is specialised and repeated. Risks include incorrect formulas/units or overwriting data; mitigate them with tests, validation, and backups.
 3. Inputs: B1 and B2; process: multiplication; output: B3; application: Excel; language: VBA; OS: for example Windows, which manages the application and hardware.
 

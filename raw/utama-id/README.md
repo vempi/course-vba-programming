@@ -6,17 +6,15 @@ Paket materi Markdown untuk Program Sarjana Teknik Sipil, Departemen Teknik Sipi
 
 ## Slide dan PDF
 
-| Pertemuan | PowerPoint |
-|---:|---|
-| 1 | [Pengantar Komputer dan OS](00-Slide-Kuliah/01-pengantar-komputer-os.pptx) |
-| 2 | [Dasar Excel](00-Slide-Kuliah/02-dasar-excel.pptx) |
-| 3 | [Fungsi Excel dan IF](00-Slide-Kuliah/03-fungsi-excel-dan-if.pptx) |
-| 4 | [Algoritma](00-Slide-Kuliah/04-algoritma.pptx) |
-| 5 | [VBA dan Macro Linier](00-Slide-Kuliah/05-vba-dan-macro-linier.pptx) |
-| 6 | [Input-Output dan Modularitas](00-Slide-Kuliah/06-input-output-dan-modularitas.pptx) |
-| 7 | [UserForm dan Control](00-Slide-Kuliah/07-userform-dan-control.pptx) |
-
-PDF pertemuan pertama: [01-pengantar-komputer-os.pdf](01-pengantar-komputer-os.pdf).
+| Pertemuan | PowerPoint | PDF |
+|---:|---|---|
+| 1 | [Pengantar Komputer dan OS](00-Slide-Kuliah/01-pengantar-komputer-os.pptx) | [PDF](01-pengantar-komputer-os.pdf) |
+| 2 | [Dasar Excel](00-Slide-Kuliah/02-dasar-excel.pptx) | [PDF](02-dasar-excel.pdf) |
+| 3 | [Fungsi Excel dan IF](00-Slide-Kuliah/03-fungsi-excel-dan-if.pptx) | [PDF](03-fungsi-excel-dan-if.pdf) |
+| 4 | [Algoritma](00-Slide-Kuliah/04-algoritma.pptx) | [PDF](04-algoritma.pdf) |
+| 5 | [VBA dan Macro Linier](00-Slide-Kuliah/05-vba-dan-macro-linier.pptx) | [PDF](05-vba-dan-macro-linier.pdf) |
+| 6 | [Input-Output dan Modularitas](00-Slide-Kuliah/06-input-output-dan-modularitas.pptx) | [PDF](06-input-output-dan-modularitas.pdf) |
+| 7 | [UserForm dan Control](00-Slide-Kuliah/07-userform-dan-control.pptx) | [PDF](07-userform-dan-control.pdf) |
 
 ## Desain pembelajaran
 
@@ -53,7 +51,7 @@ Setiap pertemuan menghasilkan satu artefak kecil yang dapat didemonstrasikan dan
 | Konsep inti | 15–25 menit | penjelasan singkat dan contoh konkret |
 | Demonstrasi | 15–20 menit | dosen memperlihatkan proses lengkap |
 | Praktik | 30–40 menit | mahasiswa membuat dan mengubah contoh |
-| Kuis dan refleksi | 10–15 menit | tiga soal, pemeriksaan, dan penjelasan |
+| Latihan dan refleksi | 10–15 menit | tiga soal, pemeriksaan, dan penjelasan |
 
 Bagian **pengayaan** tidak wajib selesai selama tatap muka. Dosen dapat menyediakan workbook dengan judul tabel dan data awal agar waktu kelas digunakan untuk memahami algoritma dan kode.
 
@@ -80,7 +78,7 @@ Bagian **pengayaan** tidak wajib selesai selama tatap muka. Dosen dapat menyedia
 |---|---:|
 | Artefak berfungsi dan hasil benar | 35% |
 | Algoritma, satuan, dan validasi | 25% |
-| Tiga soal kuis | 20% |
+| Tiga soal latihan | 20% |
 | Kemampuan mendemonstrasikan dan menjelaskan | 20% |
 
 ---

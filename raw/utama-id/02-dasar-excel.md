@@ -21,7 +21,7 @@ Mahasiswa mampu:
 | 45–60 | Fungsi `SUM`, `AVERAGE`, `MIN`, `MAX`, `COUNT`, `ROUND` |
 | 60–72 | Nol, sel kosong, teks, dan nilai galat |
 | 72–84 | Ilustrasi proses iterasi |
-| 84–97 | Kuis tiga soal |
+| 84–97 | Latihan singkat tiga soal |
 | 97–100 | Pemeriksaan dan checklist |
 
 **Keluaran minimum:** satu tabel volume/biaya yang dapat disalin ke bawah tanpa salah acuan, satu kotak ringkasan fungsi, serta satu tabel iterasi lima langkah.
@@ -132,7 +132,7 @@ Mulai dengan `x₀ = 1`. Buat tabel:
 
 Nilai `x baru` menjadi `x lama` pada baris berikutnya. Hentikan ketika perubahan lebih kecil dari toleransi, misalnya `0,000001`. Ini contoh numerik; hindari mengaktifkan iterasi workbook tanpa memahami circular reference dan kondisi berhentinya.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

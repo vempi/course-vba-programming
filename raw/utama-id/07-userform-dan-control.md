@@ -21,7 +21,7 @@ Mahasiswa mampu:
 | 40–58 | Demo event tombol Hitung |
 | 58–76 | Praktik form volume beton |
 | 76–86 | Validasi, tombol Bersihkan, dan Tutup |
-| 86–97 | Kuis tiga soal dan demonstrasi pasangan |
+| 86–97 | Latihan singkat tiga soal dan demonstrasi pasangan |
 | 97–100 | Simpan, compile, dan checklist akhir |
 
 **Keluaran minimum:** satu UserForm dengan tiga input, satu output, tombol Hitung, Bersihkan, dan Tutup; input salah menghasilkan pesan yang jelas.
@@ -185,7 +185,7 @@ Demo individu selama satu menit:
 - jangan menyimpan hasil sebelum input valid; dan
 - sediakan cara membatalkan atau menutup form.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

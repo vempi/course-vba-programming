@@ -26,7 +26,7 @@ Mahasiswa mampu:
 | 56–68 | Percabangan `If...ElseIf` dan validasi | §7–8 |
 | 68–82 | Perulangan `For...Next` pada tabel data | §9 |
 | 82–90 | Praktik klasifikasi 10 baris | §12 |
-| 90–97 | Kuis tiga soal | Kuis |
+| 90–97 | Latihan singkat tiga soal | Latihan |
 | 97–100 | Simpan `.xlsm` dan checklist | Checklist |
 
 **Keluaran minimum:** satu macro rekaman yang telah dibersihkan, satu macro linier buatan sendiri, dan satu macro berulang yang memproses sedikitnya sepuluh baris serta menangani nilai nonnumerik.
@@ -383,7 +383,7 @@ Ini tabel uji yang sama polanya dengan Modul 3 §7 — kali ini dijalankan oleh 
 
 Ubah `HitungSemuaDebit` agar berhenti di baris terakhir secara otomatis, menghitung jumlah data valid dan tidak valid, lalu menampilkan ringkasan melalui `MsgBox` setelah loop selesai.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

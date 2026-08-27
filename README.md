@@ -15,6 +15,18 @@ Slide PowerPoint dibuat dengan template UGM dari `_Slide-Template-UGM` dan disim
 | Indonesia | [`raw/utama-id/00-Slide-Kuliah/`](raw/utama-id/00-Slide-Kuliah/) | [`01-pengantar-komputer-os.pdf`](raw/utama-id/01-pengantar-komputer-os.pdf) | [`build_powerpoints.py`](raw/utama-id/build_powerpoints.py) |
 | English | [`raw/utama-en/00-Slide-Kuliah/`](raw/utama-en/00-Slide-Kuliah/) | [`01-computers-and-operating-systems.pdf`](raw/utama-en/01-computers-and-operating-systems.pdf) | [`build_powerpoints.py`](raw/utama-en/build_powerpoints.py) |
 
+PDF versi modul gabungan:
+
+| Modul | PDF |
+|---:|---|
+| 1 | [`01-pengantar-komputer-dan-komputasi.pdf`](01-pengantar-komputer-dan-komputasi.pdf) |
+| 2 | [`02-excel-fungsi-dan-satuan.pdf`](02-excel-fungsi-dan-satuan.pdf) |
+| 3 | [`03-keputusan-dan-pengujian-batas.pdf`](03-keputusan-dan-pengujian-batas.pdf) |
+| 4 | [`04-algoritma-dan-verifikasi.pdf`](04-algoritma-dan-verifikasi.pdf) |
+| 5 | [`05-vba-macro-percabangan-perulangan.pdf`](05-vba-macro-percabangan-perulangan.pdf) |
+| 6 | [`06-modularitas-data-dan-pengujian.pdf`](06-modularitas-data-dan-pengujian.pdf) |
+| 7 | [`07-userform-otomasi-dan-praktik-integratif.pdf`](07-userform-otomasi-dan-praktik-integratif.pdf) |
+
 ## Desain pembelajaran
 
 Setiap modul dirancang untuk **2 SKS atau 100 menit**. Alur pembelajaran dibuat sederhana:
@@ -52,7 +64,7 @@ Satu prinsip berlaku di seluruh modul: **program yang menghasilkan angka belum t
 | Konsep inti | 15-25 menit | penjelasan singkat dan contoh konkret |
 | Demonstrasi | 15-20 menit | dosen memperlihatkan proses lengkap |
 | Praktik | 30-40 menit | mahasiswa membuat dan mengubah contoh |
-| Kuis dan refleksi | 10-15 menit | tiga soal, pemeriksaan, dan penjelasan |
+| Latihan dan refleksi | 10-15 menit | tiga soal, pemeriksaan, dan penjelasan |
 
 Setiap modul memuat tabel **Alur 100 menit** dan **Keluaran minimum**. Bagian bertanda **pengayaan/PR** tidak wajib selesai selama tatap muka. Dosen dapat menyediakan workbook dengan judul kolom dan data awal agar waktu kelas dipakai untuk memahami algoritma dan kode, bukan mengetik tabel.
 
@@ -87,7 +99,7 @@ Angka, batas kategori, dan koefisien pada modul ini adalah **data latihan algori
 | Artefak berfungsi dan hasil benar | 30% |
 | Algoritma, satuan, dan validasi | 25% |
 | Pengujian dan verifikasi manual | 15% |
-| Tiga soal kuis | 15% |
+| Tiga soal latihan | 15% |
 | Kemampuan mendemonstrasikan dan menjelaskan | 15% |
 
 ## Etika penggunaan AI

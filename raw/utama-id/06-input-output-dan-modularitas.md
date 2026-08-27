@@ -20,7 +20,7 @@ Mahasiswa mampu:
 | 40–55 | Array satu dan dua dimensi |
 | 55–70 | Perbedaan `Function` dan `Sub` |
 | 70–85 | Praktik pengolahan tabel volume |
-| 85–97 | Kuis tiga soal |
+| 85–97 | Latihan singkat tiga soal |
 | 97–100 | Compile dan checklist |
 
 **Keluaran minimum:** satu fungsi volume dan satu `Sub` yang membaca sedikitnya lima baris, memprosesnya melalui array, lalu menulis hasil ke Excel.
@@ -221,7 +221,7 @@ Uji fungsi di Immediate Window:
 
 Hasil yang diharapkan adalah `6` dan `-1`.
 
-## Kuis berdampak — 3 soal
+## Latihan singkat — 3 soal
 
 ### 1. Prediksi
 

@@ -20,7 +20,7 @@ Students will be able to:
 | 40–55 | One- and two-dimensional arrays |
 | 55–70 | Difference between `Function` and `Sub` |
 | 70–85 | Process a volume table |
-| 85–97 | Three-question quiz |
+| 85–97 | Three-question short exercise |
 | 97–100 | Compile and complete checklist |
 
 **Minimum product:** one volume function and one `Sub` that reads at least five rows into an array, processes them, and writes results to Excel.
@@ -221,7 +221,7 @@ Test the function in the Immediate Window:
 
 Expected outputs are `6` and `-1`.
 
-## High-impact quiz — 3 questions
+## Short exercise — 3 questions
 
 ### 1. Predict
 

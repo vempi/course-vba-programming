@@ -6,17 +6,15 @@ A Markdown-based learning package for undergraduate Civil Engineering students, 
 
 ## Slides and PDF
 
-| Meeting | PowerPoint |
-|---:|---|
-| 1 | [Computers and Operating Systems](00-Slide-Kuliah/01-computers-and-operating-systems.pptx) |
-| 2 | [Excel Fundamentals](00-Slide-Kuliah/02-excel-fundamentals.pptx) |
-| 3 | [Excel Functions and IF](00-Slide-Kuliah/03-excel-if.pptx) |
-| 4 | [Algorithms](00-Slide-Kuliah/04-algorithms.pptx) |
-| 5 | [VBA and Linear Macros](00-Slide-Kuliah/05-vba-and-linear-macros.pptx) |
-| 6 | [Input-Output and Modularity](00-Slide-Kuliah/06-input-output-and-modularity.pptx) |
-| 7 | [UserForms and Controls](00-Slide-Kuliah/07-userforms-and-controls.pptx) |
-
-First meeting PDF: [01-computers-and-operating-systems.pdf](01-computers-and-operating-systems.pdf).
+| Meeting | PowerPoint | PDF |
+|---:|---|---|
+| 1 | [Computers and Operating Systems](00-Slide-Kuliah/01-computers-and-operating-systems.pptx) | [PDF](01-computers-and-operating-systems.pdf) |
+| 2 | [Excel Fundamentals](00-Slide-Kuliah/02-excel-fundamentals.pptx) | [PDF](02-excel-fundamentals.pdf) |
+| 3 | [Excel Functions and IF](00-Slide-Kuliah/03-excel-if.pptx) | [PDF](03-excel-if.pdf) |
+| 4 | [Algorithms](00-Slide-Kuliah/04-algorithms.pptx) | [PDF](04-algorithms.pdf) |
+| 5 | [VBA and Linear Macros](00-Slide-Kuliah/05-vba-and-linear-macros.pptx) | [PDF](05-vba-and-linear-macros.pdf) |
+| 6 | [Input-Output and Modularity](00-Slide-Kuliah/06-input-output-and-modularity.pptx) | [PDF](06-input-output-and-modularity.pdf) |
+| 7 | [UserForms and Controls](00-Slide-Kuliah/07-userforms-and-controls.pptx) | [PDF](07-userforms-and-controls.pdf) |
 
 ## Learning design
 
@@ -53,7 +51,7 @@ Each meeting produces one small, demonstrable artefact and ends with three high-
 | Core concept | 15–25 min | short explanation and concrete example |
 | Demonstration | 15–20 min | instructor models the complete process |
 | Practice | 30–40 min | students create and modify the example |
-| Quiz and reflection | 10–15 min | three questions, checking, and explanation |
+| Exercise and reflection | 10–15 min | three questions, checking, and explanation |
 
 Sections marked **Extension** are not required during class. The instructor may distribute a workbook containing table headings and starter data so class time is spent on algorithms and code.
 
@@ -80,7 +78,7 @@ Sections marked **Extension** are not required during class. The instructor may 
 |---|---:|
 | Working artefact and correct result | 35% |
 | Algorithm, units, and validation | 25% |
-| Three-question quiz | 20% |
+| Three-question exercise | 20% |
 | Ability to demonstrate and explain | 20% |
 
 ---

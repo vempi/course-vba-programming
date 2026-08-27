@@ -21,7 +21,7 @@ Students will be able to:
 | 45–60 | `SUM`, `AVERAGE`, `MIN`, `MAX`, `COUNT`, and `ROUND` |
 | 60–72 | Zero, blank cells, text, and error values |
 | 72–84 | A simple iterative calculation |
-| 84–97 | Three-question quiz |
+| 84–97 | Three-question short exercise |
 | 97–100 | Review and checklist |
 
 **Minimum product:** one volume-and-cost table whose formulas copy correctly, a function summary, and a five-step iteration table.
@@ -132,7 +132,7 @@ Start at `x₀ = 1`:
 
 The new value becomes the old value on the next row. Stop when the change is smaller than a tolerance such as `0.000001`. Avoid enabling workbook iteration before understanding circular references and stopping conditions.
 
-## High-impact quiz — 3 questions
+## Short exercise — 3 questions
 
 ### 1. Predict
 
